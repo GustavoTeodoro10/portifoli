@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto de Portifolio.
 
-![image](https://github.com/GustavoTeodoro10/)
+![image](https://github.com/GustavoTeodoro10/portifoli/blob/main/assets/telaInicialPo.JPG)
 
 ## Ferramentas utilizadas:
 
