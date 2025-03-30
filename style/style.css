@@ -128,19 +128,24 @@ body {
     font-size: 1.5rem;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1100px){
     .cabecalho{
         padding:10% ;
     }
     .cabecalho__menu{
         justify-content: center;
+        text-align: center;
     }
 
     .apresentacao{
         flex-direction: column-reverse;  
+        align-items: center;
         padding: 5%;  
     }
     .apresentacao__conteudo{
         width: auto;
+    }
+    .apresentacao__conteudo__titulo{
+        text-align: center;
     }
 }
